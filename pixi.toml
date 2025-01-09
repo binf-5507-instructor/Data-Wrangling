@@ -1,0 +1,11 @@
+[project]
+authors = ["cgeady <caryn@geady.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "Data-Wrangling"
+platforms = ["osx-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
